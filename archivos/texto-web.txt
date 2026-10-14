@@ -1,0 +1,14 @@
+https://developer.mozilla.org/es-ES/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+
+Cómo funciona la Web
+
+Cómo funciona la Web ofrece una vista simplificada de lo que sucede cuando usted ve una página en un navegador, en su computadora o teléfono.
+
+Esta teoría no es esencial para escribir códigos a corto plazo, pero en poco tiempo te beneficiarás al comprender lo que está sucediendo en segundo plano.
+Clientes y servidores
+
+Las computadoras conectadas a la web se denominan clientes y servidores. Un diagrama simplificado de cómo interactúan podría verse así:
+
+Los clientes son los dispositivos típicos conectados a Internet de los usuarios web (por ejemplo, su computadora conectada a su Wi-Fi o su teléfono conectado a su red móvil) y los programas de acceso web disponibles en estos dispositivos (generalmente un navegador como Firefox o Chrome).
+
+Los servidores son computadoras que almacenan páginas, sitios web o aplicaciones. Cuando un dispositivo cliente desea acceder a una página, se descarga una copia de la misma desde el servidor a la máquina cliente para mostrarse en el navegador web del usuario.

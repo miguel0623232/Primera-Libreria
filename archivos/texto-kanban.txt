@@ -1,0 +1,55 @@
+https://www.alura.com.br/artigos/metodo-kanban
+
+Introducción
+
+Aunque nunca hayas trabajado o estudiado Kanban, si trabajas con agilidad es muy probable que ya hayas escuchado algunas de estas frases:
+
+"Empieza con lo que ya tienes";
+"Deja de empezar y empieza a terminar";
+“Kanban es un método y no un marco de trabajo”;
+“Kanban y Scrum, son lo mismo”;
+“Kanban es una metodología ágil”;
+"Es necesario limitar el trabajo en progreso";
+"Para que esto funcione, necesitamos una política explícita";
+"Para ser ágil, es necesario trabajar con un sistema extraído".
+
+Independientemente de tu nivel de conocimiento sobre agilidad, al final de este artículo podrás comprender cada una de estas frases y saber identificar las que son correctas, las que son incorrectas y las que forman parte del universo Kanban.
+
+¿Qué es Kanban? ¿Y para qué sirve este método?
+
+Primero, debemos definir que este artículo habla específicamente del Método Kanban y esto es importante porque Kanban tiene varios significados diferentes.
+
+La palabra japonesa kanban significa “señalización” o “tarjeta” y podría usarse para referirse a un sistema de señalización que utiliza tarjetas.
+
+Tablero Kanban
+Varias metodologías y frameworks utilizados en agilidad, como Scrum, por ejemplo, utilizan un tablero que podemos llamar “Tablero Kanban”, en el que tenemos unas tarjetas que se mueven por el tablero, es decir, unos “kanbans”. Por ello, es fundamental tener presente qué son Scrum y Kanban, para no confundirnos.
+Manufactura esbelta (o sistema de producción Toyota)
+
+En el sistema de producción de Toyota, idealizado por el ingeniero Taiichi Ohno en la década de 1950, se utilizaba la palabra kanban para referirse a la señalética creada para permitir el uso del sistema pull (lo detallaremos un poco más adelante).
+
+Método Kanban
+
+En 2010, David J. Anderson creó el modelo Kanban para el desarrollo de software, que combina elementos del pensamiento Lean con el pensamiento ágil en el proceso de desarrollo de software. Este nuevo modelo se denominó Método Kanban. Más tarde, el Método Kanban evolucionaría para su uso con otros tipos de productos, además del software.
+
+Kanban: ¿Método, metodología o marco de trabajo?
+
+David J. Anderson sugirió convocar el nombre Método Kanban siempre con la palabra Kanban escrita con “K” mayúscula. Esto es un intento de diferenciar el Método Kanban de otros significados de la palabra kanban (con “k” minúscula). Anderson describió este método de trabajo en el libro “Kanban: The Evolutionary Shift to Success for Your Technology Business”, publicado en 2010. Ese mismo año, fue uno de los creadores de Kanban University.
+
+En los materiales de Kanban University, como la Guía Oficial del Método Kanban (que se puede descargar desde la propia web en 17 idiomas, incluidos inglés, portugués y español) encontramos siempre una clara distinción entre el concepto de Método y Marco de Referencia. Esto es para que los practicantes del Método Kanban tengan claro que la función y forma de implementarlo es un poco diferente a la implementación de un marco de trabajo, como Scrum, por ejemplo.
+
+Una metodología, por otro lado, es mucho más prescriptiva y completa que un método o un marco. Por lo tanto, el Método Kanban claramente no puede considerarse una metodología Kanban.
+
+En resumen, ¿qué es el método Kanban?
+
+El método Kanban es un conjunto de principios y prácticas que tiene como objetivo proporcionar una evolución en la forma en que su equipo (o empresa) entrega valor en los servicios prestados. En Kanban, eliminamos el desperdicio y mejoramos la entrega continua de valor a través de un sistema extraído.
+
+Aunque la frase anterior parezca simplemente una estrategia de marketing, hay una serie de conceptos técnicos incluidos en esta explicación, que veremos en detalle en este artículo.
+¿Cuál es la característica principal de Kanban?
+
+Kanban se basa en principios y características específicas para mejorar la eficiencia y la productividad de una organización. Conozcamos las principales características de Kanban y cómo contribuyen a mejorar los procesos.
+
+ Producción nivelada: el sistema Kanban tiene como objetivo equilibrar la demanda de trabajo en cada etapa del proceso, evitando cuellos de botella y garantizando que la cantidad de trabajo se distribuya de manera uniforme. De esta forma es posible garantizar un flujo de trabajo ligero, continuo y sin sobrecargas;
+
+ Reducción del tiempo de preparación: Kanban busca minimizar el tiempo necesario para configurar y preparar una tarea o proceso. Al reducir los tiempos de cambio de herramientas, configuración de la máquina y otros procesos de preparación, es posible aumentar la eficiencia y la capacidad de respuesta del sistema, permitiendo completar más trabajo en menos tiempo;
+
+ Disposición de la máquina: al diseñar la disposición física de herramientas como máquinas y equipos de trabajo, Kanban tiene como objetivo optimizar el flujo de trabajo y reducir el desperdicio. Al reorganizar el diseño de una manera lógica y eficiente, es posible reducir el tiempo de viaje y el transporte de
